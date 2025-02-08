@@ -1,12 +1,17 @@
 # 📊 Analisis Data Penjualan Online
 
-## 🚀 Gambaran Proyek
+![Dashboard 1 (2)](https://github.com/user-attachments/assets/17b1e31a-0059-4201-a58d-5767ef9113a6)
+
+## 💡 Visualisasi Tableau : 
+[🔗 Dashboard Online Sakes Data Revenue](https://public.tableau.com/views/OnlineSalesData_17382535570630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## 🚀 Gambaran Proyek!
+
 Proyek analisis mendalam tentang data penjualan online, mengubah data mentah menjadi wawasan strategis menggunakan SQL dan Tableau.
 
 ## 🔍 Sumber Data & Alat
 - **Dataset**: [Data Penjualan Online](https://github.com/diontambz/Online-Sales-Data-Revenue/blob/main/Online%20Sales%20Data.xlsx)
 - **Basis Data**: Microsoft SQL Server Management Studio
-- **Visualisasi**: [🔗 Dasbor Tableau Interaktif](https://public.tableau.com/views/OnlineSalesData_17382535570630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💡 Eksplorasi Data Mendalam
 
